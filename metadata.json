@@ -1,0 +1,8 @@
+{
+  "name": "حديقة الحروف والأرقام",
+  "description": "برنامج تعليمي تفاعلي ممتع لتعليم الأطفال دون سن 5 سنوات الحروف والأرقام العربية بالصوت والصورة والمكافآت اليومية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
